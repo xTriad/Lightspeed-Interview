@@ -1,3 +1,5 @@
+-- Answers are at the bottom
+
 CREATE TABLE IF NOT EXISTS users (
   id INT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
   fName VARCHAR(63) NOT NULL,
